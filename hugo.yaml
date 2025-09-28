@@ -1,0 +1,49 @@
+baseURL: https://example.org/
+languageCode: en-us
+title: Votez OUI Yukon
+theme: hextra
+
+
+markup:
+  tableOfContents:
+    endLevel: 5
+  highlight:
+    noClasses: false
+  goldmark:
+    renderer:
+      unsafe: true
+    extensions:
+      passthrough:
+        delimiters:
+          block: [['\[', '\]'], ['$$', '$$']]
+          inline: [['\(', '\)']]
+        enable: true
+
+enableInlineShortcodes: true
+
+outputs:
+  home: [HTML]
+  page: [HTML]
+  section: [HTML, RSS]
+
+params:
+  blog:
+    list:
+      displayTags: true
+
+  search:
+    enable: false
+  
+  navbar:
+    displayLogo: false
+  
+  disableSidebar: true
+
+  page:
+    width: wide
+
+  footer:
+    enable: true
+    displayCopyright: false
+    displayPoweredBy: false
+    width: normal

@@ -1,0 +1,12 @@
+# Hugo public build directory
+public/*
+
+# Hugo build flag
+.hugo_build.lock
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# dotenv environment variables file
+.env

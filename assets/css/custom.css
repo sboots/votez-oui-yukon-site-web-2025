@@ -1,0 +1,101 @@
+@layer theme {
+  :root {
+    --hx-text-base: 1.125rem;
+    --hx-color-slate-100: #d7f1f6;
+    --hx-color-dark: #0b0f1a;
+    --hx-color-neutral-900: #0b0f1a;
+  }
+}
+
+/* Dark theme background color */
+body:where(.dark, .dark *) {
+  background-color: var(--hx-color-dark);
+  color: var(--hx-color-slate-100);
+}
+
+/* Slightly smaller line height and margins */
+.content :where(p):not(:where([class~="not-prose"], [class~="not-prose"] *)) {
+  margin-top: calc(var(--hx-spacing) * 5);
+  line-height: calc(var(--hx-spacing) * 6.5);
+}
+
+.content :where(ul):not(:where([class~="not-prose"], [class~="not-prose"] *)) {
+  margin-top: calc(var(--hx-spacing) * 5);
+}
+
+.homepage-logo-bg {
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 2.5rem;
+  margin-bottom: 0.5rem;
+  /* background-image: url(/img/vote-yes-yukon-logo-r1.svg); */
+  -webkit-mask-image: url(/img/votez-oui-yukon-logo-r1.svg);
+  mask-image: url(/img/votez-oui-yukon-logo-r1.svg);
+  mask-repeat: no-repeat;
+  mask-size: contain;
+  width: 100%;
+  height: 140px;
+}
+
+@media screen and (min-width: 410px) {
+  .homepage-logo-bg {
+    height: 150px;
+  }
+}
+
+@media screen and (min-width: 459px) {
+  .homepage-logo-bg {
+    height: 190px;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .homepage-logo-bg {
+    margin-left: 2rem;
+    margin-right: 2rem;
+    height: 220px;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .homepage-logo-bg {
+    height: 300px;
+  }
+}
+
+.light .homepage-logo-bg {
+  background-color: var(--hx-color-slate-900);
+  color: var(--hx-color-slate-100);
+}
+
+.dark .homepage-logo-bg {
+  /* background-color: var(--hx-color-gray-100); */
+  background-color: var(--hx-color-slate-100);
+  color: var(--hx-color-slate-900);
+}
+
+.homepage-subheading {
+  font-size: var(--hx-text-2xl);
+  text-align: right;
+  padding-top: 1rem;
+  padding-top: 1rem;
+  line-height: calc(var(--hx-spacing) * 7);
+}
+
+@media screen and (max-width: 767px) {
+  .homepage-subheading {
+    padding-top: 0rem;
+  }
+}
+
+/* Remove H2 bottom borders */
+.content :where(h2):not(:where([class~="not-prose"], [class~="not-prose"] *)) {
+  border-bottom-width: 0px;
+}
+
+/* Footer links */
+footer :where(a):not(:where([class~="not-prose"], [class~="not-prose"] *)) {
+  color: var(--hx-color-primary-600);
+  text-decoration-line: underline;
+  text-decoration-thickness: from-font;
+}
