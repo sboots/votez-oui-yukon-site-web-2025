@@ -50,7 +50,7 @@ Nous ne sommes pas affiliés avec des partis politiques ou autres organisations 
 
 ### Imprimer un poster
 
-Voici des posters que tu peux imprimer en taille 11x17 (27.94cm x 43.18cm), sur votre Xerox au bureau à l’imprimer au centre-ville. Si tu as d’autres concepts ou idées pour des posters, contactez-nous à [voteyesyukon@gmail.com](mailto:voteyesyukon@gmail.com). 
+Voici des posters que tu peux imprimer en taille 11x17 (27.94cm x 43.18cm), ~~sur votre Xerox au bureau~~ à l’imprimerie au centre-ville. Si tu as d’autres concepts ou idées pour des posters, contactez-nous à [voteyesyukon@gmail.com](mailto:voteyesyukon@gmail.com). 
 
 
 ### Faire un don à notre placard-fund
