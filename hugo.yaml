@@ -1,5 +1,6 @@
 baseURL: https://votezouiyukon.ca/
 languageCode: fr-ca
+defaultContentLanguage: fr
 title: Votez OUI Yukon
 theme: hextra
 
