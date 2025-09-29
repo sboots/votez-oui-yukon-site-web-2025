@@ -1,8 +1,13 @@
-baseURL: https://example.org/
-languageCode: en-us
+baseURL: https://votezouiyukon.ca/
+languageCode: fr-ca
 title: Votez OUI Yukon
 theme: hextra
 
+menu:
+  main:
+    - name: English
+      url: "https://voteyesyukon.ca/"
+      weight: 1
 
 markup:
   tableOfContents:

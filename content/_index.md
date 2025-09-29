@@ -7,120 +7,87 @@ sidebar:
     hide: true
 ---
 
-<p class="homepage-subheading hx:font-medium" style="padding-left: 1.5rem;">Alongside the next Yukon territorial election, we’re having a plebiscite on electoral reform in the Yukon. <span class="hx:font-semibold">Vote YES for a more awesome Yukon</span>.</p>
+<p class="homepage-subheading hx:font-medium" style="padding-left: 1.5rem;">Au cours de la prochaine élection territoriale, nous aurons un plébiscite sur la réforme électorale au Yukon. <span class="hx:font-semibold">Votez OUI pour un meilleur Yukon</span>.</p>
 
 
-## What’s happening?
+## Un plébi-quoi?
 
-When the next Yukon election takes place, eligible voters will also be able to choose “Yes” or “No” on an electoral reform plebiscite question. 
+Quand la prochaine élection territoriale prend lieu au Yukon, les électeurs·trices seront invités à choisir “oui” ou “non” pour une question sur la réforme électorale.
 
-The question asks if voters want to change to a ranked vote system – where you rank your choice of candidates in order – or to stick with the current first-past-the-post voting system, which everyone agrees is [pretty terrible](https://sboots.ca/2025/08/20/in-support-of-the-yukon-electoral-reform-plebiscite/#what-s-happening).
+La question demande aux électeurs·trices si on devrait changer à un système de vote préférentiel – où on choisit nos candidates par ordre de préférence – ou si on devrait continuer avec le système de “first-past-the-post” (scrutin uninominal majoritaire à un tour). Ce dernier étant, sous réflexion, pas mal terrible.
 
-**If you want to change, vote yes! If you want to stick with first-past-the-post, vote no.**
+Si tu veux changer, votez oui! Si tu veux continuer avec “first-past-the-post”, votez non.
 
-You can find out more on [Elections Yukon’s plebiscite page](https://electionsyukon.ca/en/plebiscite), or in their [plebiscite explainer video](https://www.youtube.com/watch?v=NjM1tPb4wAI).
-
-
-## Why vote yes?
+Tu peux trouver d’autres renseignements sur la page web de la plebiscite d’Élections Yukon, ou en regardant leur vidéo éducative (en anglais seulement).
 
 
-### Show Canada that electoral reform is possible
+##  Pourquoi votez oui?
 
-The Yukon is an awesome role model for so many things. People across Canada have suggested replacing first-past-the-post [for years](https://sboots.ca/2025/08/20/in-support-of-the-yukon-electoral-reform-plebiscite/), and no other province or territory has been able to make it happen. We could be the first, and help [improve politics across the country](https://sboots.ca/2025/08/20/in-support-of-the-yukon-electoral-reform-plebiscite/#why-it-s-good-for-canada).
+Adopter un nouveau système électoral, ça veut dire:
 
+* Montrez au reste du Canada que la réforme électorale est possible
+* Créez des résultats politiques plus inclusifs
+* Choisissez une option bien-aligné au Yukon
+* Utilisez le système préféré des partis politiques, même si ces-ci ne l’admettrait pas
+* Être parti d’un changement historique 
 
-### Create better political outcomes
+Selon nous, une occasion à ne pas manquer!
 
-The [Yukon Citizens’ Assembly on electoral reform](https://www.yukoncitizensassembly.ca/) chose ranked vote because it [makes more votes matter](https://www.yukon-news.com/news/yukon-citizens-assembly-recommends-changing-electoral-system-to-ranked-vote-7533608) than first-past-the-post. Ranked vote [allows](https://www.yukon-news.com/news/yukon-citizens-assembly-recommends-changing-electoral-system-to-ranked-vote-7533608) “voters to vote for who they truly want, and it opens the door to smaller parties and independent candidates getting voted in”. 
+## Pourquoi votez non?
 
-As the Citizens’ Assembly report [pointed out](https://www.yukoncitizensassembly.ca/ycaer-final-report-october-2024/), “with Ranked Vote, voters can honestly rank their choices without feeling their vote is wasted”. That’s pretty awesome!
+Évidemment des raisons sérieux ici:
 
+* Tu es présentement un membre de la législature Yukonnais, ou un staffer politique, qui aime bien garder simple votre route à ré-élection
+* Tu penses que la politique canadien marche *complètement* bien, vraiment rien ne mérite changer.
+* Ta couleur favori c’est beige, mais pas même du nice beige.
+* Tu viens d’Ontario ou de la Colombie-Britannique, et t’es jaloux que ta province d’origine ne serait pas la première au pays à adopter un nouveau système électoral.
 
-### Choose a great option for Yukon
+## Comment appuyer la campagne Votez OUI Yukon
 
-The Yukon is a small territory and elections tend to be pretty tight (remember when there was [an exact tie](https://www.cbc.ca/news/canada/north/yukon-election-tie-explained-1.5985532)?). Ranked vote keeps the local accountability and representation we have right now, while better reflecting people’s views without anyone feeling like their vote is wasted.
+Nous ne sommes pas affiliés avec des partis politiques ou autres organisations Yukonnais ou ailleurs. Nous le faisons comme enthousiastes de la réforme électorale (salut, les fellow nerds de sciences politiques).
 
-Although there are lots of great electoral reform options out there (including [proportional representation](https://en.wikipedia.org/wiki/Proportional_representation), which is excellent), many of these work best on a country-sized scale rather than [a population of 48,000 people](https://en.wikipedia.org/wiki/Yukon).
+**Si tu aimeras appuyer la campagne, nous serions très reconnaissants!**
 
-[Everyday Yukoners from across the territory](https://www.cbc.ca/player/play/video/9.6861539) who were part of the Citizens’ Assembly – not politicians or government officials! – landed on ranked vote as the best option to improve our electoral system.
+### Imprimer un poster
 
-
-### Political parties think it’s a good idea, even if they won’t admit it
-
-Canadian political parties at both the federal and provincial levels [already use ranked vote to choose their party leadership candidates](https://fairvote.org/new-canadian-prime-minister-will-be-chosen-with-ranked-choice-voting/). It helps choose representatives that more supporters can get behind, and ultimately helps the party leadership better reflect their membership. 
-
-
-### Be part of a really cool change
-
-It would be awesome for Yukon to be the first Canadian territory or province to adopt an alternative to first-past-the-post. Past Canadian prime ministers [wish they’d done it](https://www.cbc.ca/news/politics/trudeau-electoral-reform-biggest-regret-1.7426407). We could actually be the first to pull it off, and you can be part of making it happen.
-
-
-## Why vote no?
-
-Here’s some reasons to vote no (these are tongue-in-cheek!).
-
-* You’re a current Yukon politician or political staffer, and you want to keep things the same so it’s easier to get re-elected.
-* You think politics in Canada is working *totally fine* the way it is.
-* Your favourite colour is beige.
-* You don’t like nice things.
-* You wish all these over-enthusiastic young kids would get off your dang lawn.
+Voici des posters que tu peux imprimer en taille 11x17 (27.94cm x 43.18cm), sur votre Xerox au bureau à l’imprimer au centre-ville. Si tu as d’autres concepts ou idées pour des posters, contactez-nous à [voteyesyukon@gmail.com](mailto:voteyesyukon@gmail.com). 
 
 
-## Support the Vote YES Yukon campaign
+### Faire un don à notre placard-fund
 
-We’re not affiliated with any Yukon political party or organization, and we’re just doing this because we think electoral reform is really cool.
+Les placards (lawn signs) sont beaucoup plus chers qu’on a prévu ($10 à peu près chacun!). Si tu donnes $10 ou plus en avance de notre print-run anticipé, on sera certain de t’en livrer un (hors de Whitehorse, en attente d’options de livraison).
 
-If you’d like to support the campaign, that would be awesome!
-
-
-### Print off a poster
-
-Here are some posters that you can print off (~~on your work printer~~ at a local office supply store), in 11x17 ledger/tabloid size. If you have ideas for other poster designs, give us a shout at [voteyesyukon@gmail.com](mailto:voteyesyukon@gmail.com). 
+Petit règles avant de donner:
 
 
-### Donate to our lawn sign fund
 
-Lawn signs are surprisingly expensive (like $10 apiece to print!). If you donate $10 or more before our planned print run, we’ll make sure to get you a lawn sign (we’re still figuring out shipping options for outside of Whitehorse). 
+* Tu peux envoyer des dons par e-transfer à [voteyesyukon@gmail.com](mailto:voteyesyukon@gmail.com).
+* Si tu as fait un don et tu veux un placard, remplir notre formulaire pour demander un placard (sous construction)
+* **Nous ne sommes pas un parti politique; ces dons ne sont pas déductibles de tes impôts.**
+* Pour la transparence, ton nom (comme indiqué dans le e-transfer) serait inclus dans un spreadsheet visible au public.
+* Si pour aucune raison on n’est pas confiant en toi ou ton don, on te le remboursera aussi par e-transfer.
+* Si on aura des fonds qui restent à la fin de l’élection, on les donnera au [Samara Centre for Democracy](https://www.samaracentre.ca/), qui fait du travail hors pair pour l’engagement civique au Canada.
 
-#### Some quick donation requirements:
+Tu peux demander un placard sans faire une donation, en utilisant notre formulaire pour demander un placard (sous construction). On livrera ces placards premier arrivé, premier servi, en utilisant des fonds d’extra si disponible. Si tu faites un don de plus que $10, ton don contribue à livrer des placards à autres supporters de Votez OUI Yukon. C’est bien apprécié!
 
-* You can send donations by e-transfer to [voteyesyukon@gmail.com](mailto:voteyesyukon@gmail.com).
-* If you’ve donated and you’d like a lawn sign, fill out our lawn sign request form (coming soon).
-* **We are not a political party and these donations are not tax deductible.**
-* For transparency, your name (as displayed in the e-transfer) will be added to a publicly-visible donation record spreadsheet.
-* Please only send a donation if you are a Yukon resident, and please don’t donate more than $200.
-* If for any reason we’re unsure about you or your donation, we’ll refund it back to you via e-transfer.
-* If we have any donation funds left over after the election, we’ll donate them to the [Samara Centre for Democracy](https://www.samaracentre.ca/), which does awesome work to promote civic engagement in Canada. 
-
-You can request a lawn sign without making a donation, with our lawn sign request form (coming soon). We’ll get these to people in first-come, first-serve order, using any additional donation funds we receive. (Not first-past-the-post order! That was a joke.) If you donate more than $10, you’re helping print lawn signs for other Vote YES Yukon supporters, which is super nice!
-
-For public transparency, you can see who donated to Vote YES Yukon here (coming soon), and you can see our expenses here (coming soon). These are updated on a weekly basis. 
+Pour transparence maximale, tu peux voir qui à fait des dons à Votez OUI Yukon ici, et tu peux voir nos dépenses de campagne ici. Ces-ci sont mis-à-jour chaque semaine.
 
 
-### Tell your friends to vote YES
+### Encourager tes amis à voter OUI
 
-The best thing you can do is tell your friends, family, coworkers, neighbours, secret archrivals, annoying relatives, and anyone else you know to vote YES for electoral reform!
+La meilleure contribution que tu peux faire, c’est d’informer tes amis, ta famille, tes collègues, ton amour ou ennemi secret, et n’importe-qui d’autre que tu connais et les encourager de voter OUI à la réforme électorale!
 
-It’s a niche topic that almost no one cares about, but it’s such a great opportunity to make our territory better. Letting folks know that it’s happening, and that voting YES is a good idea, will make a big difference.
+La réforme électorale, presque personne n’y pense, mais c’est une possibilité massive d’améliorer notre territoire. Informer les gens que ça prend lieu cette élection, et que voter OUI c’est une bonne idée, fera une grande différence. 
 
-You can share our website link ([voteyesyukon.ca](https://voteyesyukon.ca)) or Facebook page (coming soon) with anyone who is interested.
+Tu peux partager le lien à notre site web ([https://votezouiyukon.ca/](https://votezouiyukon.ca/)) ou page Facebook (sous construction) avec n'importe qui qui s’intéresse.
 
 
-## Who are you people?
+## Vous-êtes qui, alors?
 
-We’re the non-partisan Vote YES Yukon campaign! 
+Nous sommes la campagne non-partisane Votez OUI Yukon! Nous ne sommes pas affiliés avec des partis politiques ou autres organisations Yukonnais ou ailleurs.
 
 [Sean Boots](https://sboots.ca/) \
-Public servant and technology writer \
+Fonctionnaire publique et technologiste \
 Whitehorse, Yukon
 
-(other members coming soon)
-
-
-## Quotes
-
-“You're voting your heart, rather than just voting somebody out. We are recommending something that can actually change the political landscape.” [Dave Mavi](https://www.yukon-news.com/news/yukon-citizens-assembly-recommends-changing-electoral-system-to-ranked-vote-7533608)
-
-“It’s going to be interesting! Hopefully it receives widespread support.” [Christopher Griffiths](https://mastodon.xyz/@cjgyt/115070939841925803)
-
-“This is a recommendation that came from people just like themselves… Yukoners who learned from experts and developed shared values to make a decision that they hoped will benefit the territory.” [Sara McPhee-Knowles](https://www.cbc.ca/player/play/video/9.6861539)
+(d’autres membres bientôt)
