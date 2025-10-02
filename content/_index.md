@@ -89,7 +89,7 @@ Tu peux envoyer des dons par e-transfer à [voteyesyukon@gmail.com](mailto:votey
 
 {{% details title="À considérer avant de donner" closed="true" %}}
 
-* Si tu as fait un don et tu veux un placard, remplir notre formulaire pour demander un placard (sous construction)
+* Si tu as fait un don et tu veux un placard, remplir notre [formulaire pour demander un placard](https://docs.google.com/forms/d/e/1FAIpQLSf1jKx05-ghA6poH4wGJEkvxW8S_Nv_VxNTBCjOO2S08HEaKg/viewform).
 * **Nous ne sommes pas un parti politique; ces dons ne sont pas déductibles de tes impôts.**
 * Pour la transparence, ton nom (comme indiqué dans le e-transfer) serait inclus dans un spreadsheet visible au public.
 * Si pour aucune raison on n’est pas confiant en toi ou ton don, on te le remboursera aussi par e-transfer.
