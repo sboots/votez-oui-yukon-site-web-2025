@@ -112,7 +112,7 @@ La meilleure contribution que tu peux faire, c’est d’informer tes amis, ta f
 
 La réforme électorale, presque personne n’y pense, mais c’est une possibilité massive d’améliorer notre territoire. Informer les gens que ça prend lieu cette élection, et que voter OUI c’est une bonne idée, fera une grande différence. 
 
-Tu peux partager le lien à notre site web ([https://votezouiyukon.ca/](https://votezouiyukon.ca/)) ou page Facebook (sous construction) avec n'importe qui qui s’intéresse.
+Tu peux partager le lien à notre site web ([https://votezouiyukon.ca/](https://votezouiyukon.ca/)) ou [notre page Facebook](https://www.facebook.com/people/Vote-Yes-Yukon-Votez-oui-Yukon/61581300344433/) avec n'importe qui qui s’intéresse.
 
 
 ## Vous-êtes qui, alors?
