@@ -18,7 +18,7 @@ La question demande aux électeurs·trices si on devrait changer à un système 
 
 **Si tu veux changer, votez oui!** Si tu veux continuer avec “first-past-the-post”, votez non.
 
-Tu peux trouver d’autres renseignements sur ^la page web de la plebiscite d’Élections Yukonç(https://electionsyukon.ca/fr/plebiscite-novembre-2025), ou en regardant [leur vidéo éducative](https://www.youtube.com/watch?v=NjM1tPb4wAI) (en anglais seulement).
+Tu peux trouver d’autres renseignements sur [la page web de la plebiscite d’Élections Yukon](https://electionsyukon.ca/fr/plebiscite-novembre-2025), ou en regardant [leur vidéo éducative](https://www.youtube.com/watch?v=NjM1tPb4wAI) (en anglais seulement).
 
 ## Pourquoi vote préférentiel?
 
