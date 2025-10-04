@@ -7,14 +7,16 @@ sidebar:
     hide: true
 ---
 
-<p class="homepage-subheading hx:font-medium" style="padding-left: 1.5rem;">Au cours de la prochaine élection territoriale, nous aurons un plébiscite sur la réforme électorale au Yukon. <span class="hx:font-semibold">Votez OUI pour un meilleur Yukon</span>.</p>
+<p class="homepage-subheading hx:font-medium" style="padding-left: 1.5rem;">Le 3 novembre, dites <span class="hx:font-semibold">OUI</span> au vote préférentiel.</p>
+
+<p class="homepage-subheading hx:font-medium" style="padding-left: 1.5rem; padding-top: 0;margin-top: 0.5rem;">C’est simple. Et ça reflète mieux les voix des Yukonnais.</p>
 
 
 ## Un plébi-quoi?
 
-Quand la prochaine élection territoriale prend lieu au Yukon, les électeurs·trices seront invités à choisir “oui” ou “non” pour une question sur la réforme électorale.
+Au cours de la prochaine élection territoriale au Yukon, le 3 novembre 2025, les électeurs·trices seront invités à choisir “oui” ou “non” pour une question sur la réforme électorale.
 
-La question demande aux électeurs·trices si on devrait changer à un système de vote préférentiel – où on choisit nos candidates par ordre de préférence – ou si on devrait continuer avec le système de “first-past-the-post” (scrutin uninominal majoritaire à un tour). Ce dernier étant, sous réflexion, [pas mal terrible](https://sboots.ca/2025/08/20/in-support-of-the-yukon-electoral-reform-plebiscite/#what-s-happening).
+La question demande aux électeurs·trices si on devrait changer à un **système de vote préférentiel** – où on choisit nos candidates par ordre de préférence – ou si on devrait continuer avec le système de “first-past-the-post” (scrutin uninominal majoritaire à un tour). Ce dernier étant, sous réflexion, [pas mal terrible](https://sboots.ca/2025/08/20/in-support-of-the-yukon-electoral-reform-plebiscite/#what-s-happening).
 
 **Si tu veux changer, votez oui!** Si tu veux continuer avec “first-past-the-post”, votez non.
 
@@ -124,3 +126,7 @@ Fonctionnaire publique et technologiste \
 Whitehorse, Yukon
 
 (d’autres membres bientôt)
+
+## Commentaires
+
+Avez-vous des idées ou commentaires à partager? Remplissez notre [formulaire pour commentaires ici](https://docs.google.com/forms/d/e/1FAIpQLScqC2GCTadZhqlCTwBrcGJER887tsgkKVk1iOkudofPyoCtBQ/viewform)!
