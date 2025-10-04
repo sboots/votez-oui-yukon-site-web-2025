@@ -2,6 +2,8 @@
 date: '2025-09-19T22:34:25-07:00'
 draft: false
 title: 'Vote YES Yukon'
+description: "Le 3 novembre, dites OUI au vote préférentiel. C’est simple. Et ça reflète mieux les voix des Yukonnais."
+images: ["/img/site-opengraph-image-fr.png"]
 toc: true
 sidebar: 
     hide: true
