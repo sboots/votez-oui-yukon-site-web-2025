@@ -55,11 +55,19 @@ body:where(.dark, .dark *) {
     margin-right: 2rem;
     height: 220px;
   }
+
+  .hextra-site-title {
+    font-size: 20px;
+  }
 }
 
 @media screen and (min-width: 992px) {
   .homepage-logo-bg {
     height: 300px;
+  }
+
+  .hextra-site-title {
+    font-size: 24px;
   }
 }
 
