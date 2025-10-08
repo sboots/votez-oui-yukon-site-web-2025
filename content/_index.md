@@ -87,7 +87,7 @@ Voici des posters que tu peux imprimer en taille 11x17 (27.94cm x 43.18cm), ~~su
 
 ### Faire un don à notre placard-fund
 
-Les placards (lawn signs) sont beaucoup plus chers qu’on a prévu ($10 à peu près chacun!). Si tu donnes $10 ou plus en avance de notre print-run anticipé, on sera certain de t’en livrer un (hors de Whitehorse, en attente d’options de livraison).
+Les placards (lawn signs) sont beaucoup plus chers qu’on a prévu ($10 à peu près chacun!). Si tu donnes $10 ou plus par le **14 octobre** (notre deuxième print-run), on sera certain de t’en livrer un (hors de Whitehorse, en attente d’options de livraison).
 
 Tu peux envoyer des dons par e-transfer à [voteyesyukon@gmail.com](mailto:voteyesyukon@gmail.com).
 
